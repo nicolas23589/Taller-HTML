@@ -1,0 +1,32 @@
+p.centrado {
+    font-family: times;
+    font-size: 18px;
+    text-align: center
+   }
+
+centrado {
+    align-items: center
+}
+
+
+div.redondeado {
+    background-color:darkorange;
+    border: 0.2em;
+    border-radius: 2em;
+    padding: 0.5em
+
+}
+div.redondeado2{
+    align-items: center;
+    
+    text-align: center;
+    background-color:#C2C5DD;
+    border: 0.1em;
+    border-radius: 1em;
+    padding: 0.1em
+}
+
+div.colorfondo{
+    background-color:#F6FFED;
+    size: cover;
+}
